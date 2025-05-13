@@ -1,11 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net8.0-android</TargetFramework>
-    <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
+    <SupportedOSPlatformVersion>26</SupportedOSPlatformVersion>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
      <IsBinding>True</IsBinding>
     <EnableDefaultAndroidItems>false</EnableDefaultAndroidItems>
+    <AcceptAndroidSDKLicenses>true</AcceptAndroidSDKLicenses>
   </PropertyGroup>
    <ItemGroup>
      <PackageReference Include="Slf4jApi" Version="1.7.30">

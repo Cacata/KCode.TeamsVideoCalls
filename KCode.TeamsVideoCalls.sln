@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCode.TeamsVideoCalls", "KCode.TeamsVideoCalls\KCode.TeamsVideoCalls.csproj", "{6C8C937F-20EA-41B7-9A48-CC23F36D3DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android.Azure.Common.Bindings", "Android.Azure.Common.Bindings\Android.Azure.Common.Bindings.csproj", "{1C8C0463-B862-AF76-4C7A-A78BA868624D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android.Azure.Core.Bindings", "Android.Azure.Core.Bindings\Android.Azure.Core.Bindings.csproj", "{6FBC090D-B44C-3B4B-8C08-EA3D25EC3CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android.Azure.Log.Bindings", "Android.Azure.Log.Bindings\Android.Azure.Log.Bindings.csproj", "{5CC6A373-48EA-9BDE-B6B4-F09782026091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android.CallingUI.Bindings", "Android.CallingUI.Bindings\Android.CallingUI.Bindings.csproj", "{B23527E7-AF31-AA71-D509-65306F187E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8C937F-20EA-41B7-9A48-CC23F36D3DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8C937F-20EA-41B7-9A48-CC23F36D3DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8C937F-20EA-41B7-9A48-CC23F36D3DD5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6C8C937F-20EA-41B7-9A48-CC23F36D3DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8C937F-20EA-41B7-9A48-CC23F36D3DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8C937F-20EA-41B7-9A48-CC23F36D3DD5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1C8C0463-B862-AF76-4C7A-A78BA868624D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8C0463-B862-AF76-4C7A-A78BA868624D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8C0463-B862-AF76-4C7A-A78BA868624D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8C0463-B862-AF76-4C7A-A78BA868624D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBC090D-B44C-3B4B-8C08-EA3D25EC3CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBC090D-B44C-3B4B-8C08-EA3D25EC3CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBC090D-B44C-3B4B-8C08-EA3D25EC3CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBC090D-B44C-3B4B-8C08-EA3D25EC3CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC6A373-48EA-9BDE-B6B4-F09782026091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC6A373-48EA-9BDE-B6B4-F09782026091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC6A373-48EA-9BDE-B6B4-F09782026091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC6A373-48EA-9BDE-B6B4-F09782026091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23527E7-AF31-AA71-D509-65306F187E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23527E7-AF31-AA71-D509-65306F187E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23527E7-AF31-AA71-D509-65306F187E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23527E7-AF31-AA71-D509-65306F187E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A913C404-07EB-4512-B652-383A9FD26989}
+	EndGlobalSection
+EndGlobal
